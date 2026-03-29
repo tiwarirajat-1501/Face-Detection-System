@@ -77,3 +77,7 @@ The system demonstrates stable real-time performance with consistent FPS on CPU 
 ## 10. Conclusion
 
 This project successfully demonstrates a practical, efficient face detection system using classical computer vision techniques. It validates the effectiveness of Haar Cascade classifiers for real-time applications and provides a strong foundation for further enhancements.
+
+## 11. Author
+
+**Made by:** Rajat Tiwari
