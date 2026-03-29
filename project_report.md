@@ -45,10 +45,13 @@ The system demonstrates stable real-time performance with consistent FPS on CPU 
 
 ## 6. Screenshots
 
-*(Note: Insert your actual screenshot images here. Below are placeholders based on the report images.)*
-
 * **Screenshot 1:** *VS Code interface showing the CLI execution and a popup window successfully detecting three faces in a sample image (`test_image.jpg`) with green bounding boxes.*
+
+![Image Detection](screenshots/img_detection.png)
+
 * **Screenshot 2:** *VS Code interface showing the CLI execution and a popup window successfully detecting four faces in another sample image (`test_image2.jpg`) with green bounding boxes.*
+
+![Test Detection](screenshots/test_2.png)
 
 ## 7. Advantages
 
